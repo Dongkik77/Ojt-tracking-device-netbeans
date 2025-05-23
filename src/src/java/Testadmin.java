@@ -29,8 +29,7 @@ import java.sql.PreparedStatement;
  */
 public class Testadmin extends javax.swing.JFrame {
     
-    public class status;
-    
+ 
 
         File imageFile = null;  // Global variable
         BufferedImage bufferedImage = null;  // Global variable
